@@ -1,3 +1,3 @@
 # Getting Started with Create React App
 
-Um app desenvolvido para que a cada click em um botão, será gerado uma frase aleatória, utilizando os conceitos do React
+Biscoito da Sorte, como o próprio nome já diz, é um app que gerará frases aleatórias. foi criado utilizando usando React.
